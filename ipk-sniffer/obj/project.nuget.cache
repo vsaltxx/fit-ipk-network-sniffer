@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EP9AnZ9ADCvAkIkG6nsjxpvQxzkW+z0Uz1gDQxCOJM3I9Yu9dPcHgUQ8K+9DgcQkvTvJLWtqx6QPXkYCQecycA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xsalta01\\Desktop\\network-sniffer\\ipk-sniffer\\ipk-sniffer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xsalta01\\.nuget\\packages\\packetdotnet\\1.4.8-pre18\\packetdotnet.1.4.8-pre18.nupkg.sha512",
+    "C:\\Users\\xsalta01\\.nuget\\packages\\sharppcap\\6.3.0\\sharppcap.6.3.0.nupkg.sha512",
+    "C:\\Users\\xsalta01\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\xsalta01\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\xsalta01\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
